@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UTS_Kompas.care</string>
+    <string-array name="kategorii">
+        <item>Teknologi</item>
+        <item>Politik</item>
+        <item>Kesehatan</item>
+    </string-array>
+</resources>
